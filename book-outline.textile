@@ -1,0 +1,47 @@
+1 - 	Introduction
+1.1 - 	what we want to accomplish
+1.2 - 	how to read this book
+
+2 - 	What is DDD
+2.1 - 	Bdd and testing (UAT, Performance, Smoke, Unit)
+2.2 - 	What BDD isn't.
+2.3 -	GWT syntax
+2.4 -	Context specification, a different approach
+
+3 - 	Behaviours, features and user stories.
+3.1 - 	What's a feature.
+3.2 -	Describing features as user stories.
+3.2 -	Using behaviours to validate the feature.
+3.3 -	Who should write the user story and the behaviours.
+
+4 -	.Net and BDD
+4.1 -	Statically typed languages challenges
+4.2 -	Going the dynamic route
+4.3 -	Staying static and leveraging Gerkhyn.
+4.4 -	Tools used in this book (Specflow, MSpec)
+
+5 -	Outside in with SpecFlow
+5.1 -	Introducing our web application
+5.2 - 	Organizing the solution
+5.2.1	Organizing the feature files
+5.3 -	Writing the first Feature
+5.3.1 -	Using GherkinEditor to help the Business 	
+5.4 -	Driving the application
+5.4.1 -	Driving via the UI vs using an API
+5.4.2 -	Pros and cons of both approaches
+5.5 -	Encapsulating UI with the class per page approach.
+5.6 -	Isolating drivers (selenium, watin, HtmlUnit)
+
+6 -	SpecFlow 
+
+6 -	Testing db interactions
+6.1 -	How to keep data integrity
+
+7 -	MSpec
+7.1 -	Using MSpec to test at the unit level
+7.2 -	Common contexts
+7.3 -	
+
+
+
+Appendix A: Tools for BDD in .net
